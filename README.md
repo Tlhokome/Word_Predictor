@@ -11,10 +11,10 @@ This system predicts the next words in a sequence using a trained LSTM model bas
 
 
 FEATURES
-*LSTM neural network trained on Friends dialogue stored in a dataset ('friends1.txt')
-*Simple and clean web interface
-*Option to choose from 1 to 6 words to predict
-*Real-time word predictions
+    -LSTM neural network trained on Friends dialogue stored in a dataset ('friends1.txt')
+    -Simple and clean web interface
+    -Option to choose from 1 to 6 words to predict
+    -Real-time word predictions
 
 HOW IT WORKS
 
