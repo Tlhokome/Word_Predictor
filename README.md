@@ -8,6 +8,8 @@ This system predicts the next words in a sequence using a trained LSTM model bas
     <figcaption>A screenshot of the Predictor App's interface</figcaption>
 </figure>
 
+
+
 FEATURES
 *LSTM neural network trained on Friends dialogue stored in a dataset ('friends1.txt')
 *Simple and clean web interface
